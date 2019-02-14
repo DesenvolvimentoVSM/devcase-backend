@@ -48,8 +48,18 @@ Você sairá na frente se:
 
 ## Tecnologia
 Para o frontend, utilize o Angular 6 ou superior
+
 Para o backend, utilize o spring boot
-Para o banco de dados, utilize o MySQL 5 ou superior (envie para o repositório o que for necessário para criarmos a estrutura das tabelas/dados)
+
+Para o banco de dados, utilize o MySQL 5 ou superior (envie para o repositório o que for necessário para criarmos a estrutura das 
+tabelas/dados)
+
+
+Você deverá fazer o fork dos dois repositóios:
+
+https://github.com/DesenvolvimentoVSM/devcase-backend.git
+
+https://github.com/DesenvolvimentoVSM/devcase-frontend.git
 
 
 ## Observações
