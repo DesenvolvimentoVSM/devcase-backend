@@ -33,7 +33,7 @@ As vendas ocorrerão no sistema atual de PDV da Farmácia.
 Desta forma você precisa construir API's para que o PDV possa se integrar com o seu sistema
 
 Suas api's precisam permitir o PDV:
-* **registrar uma venda** e com isso efetivar a **pontuação**
+* **registrar uma venda** e com isso efetivar a **pontuação do cliente**
 * retornar o **histórico de vendas** de um determinado período
 * retornar a **quantidade vendas por sexo** de um determinado período
 
