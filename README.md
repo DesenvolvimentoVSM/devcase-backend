@@ -15,13 +15,13 @@ Este sistema será baseado numa pontuação  que o cliente irá receber a cada c
 
 ## Portal WEB
 Para isso você deverá criar um portal web, no qual a Farmácia possa cadastrar e gerenciar os clientes.
-No portal tabém serão gerenciadas as regras de pontuação.
+No portal também serão gerenciadas as regras de pontuação.
 
 O sistema de pontos será por intervalo de valor de venda.
 
 Ex: 
 
-Entre R$01,00 até R$ 50,00  o cliente recebe x pontos
+Entre R$ 1,00 até R$ 50,00  o cliente recebe x pontos
 
 Entre R$50,01 até R$ 100,00 o cliente recebe y pontos
 
