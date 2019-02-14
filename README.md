@@ -49,7 +49,8 @@ Você sairá na frente se:
 ## Tecnologia
 Para o frontend, utilize o Angular 6 ou superior
 Para o backend, utilize o spring boot
-Para o banco de dados, utilize o MySQL 5 ou superior (envie o que for necessário para criarmos a estrutura das tabelas)
+Para o banco de dados, utilize o MySQL 5 ou superior (envie para o repositório o que for necessário para criarmos a estrutura das tabelas/dados)
+
 
 ## Observações
 Aqui na VSM nós seguimos boas práticas e comportamentos sugeridos pelo SCRUM. 
