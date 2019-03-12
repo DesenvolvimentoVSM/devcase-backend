@@ -37,6 +37,7 @@ Suas api's precisam permitir o PDV:
 * retornar o **histórico de vendas** de um determinado período
 * retornar a **quantidade vendas por sexo** de um determinado período
 
+Atenção, essas 3 funcionalidades ("registrar uma venda", "histórico de vendas", "quantidade vendas por sexo" não precisam ter frontend, somente API.
 
 ## Recursos desejáveis
 Você sairá na frente se:
@@ -47,7 +48,7 @@ Você sairá na frente se:
 
 
 ## Tecnologia
-Para o frontend, utilize o Angular 6 ou superior
+Para o frontend, utilize o Angular 7 ou superior
 
 Para o backend, utilize o spring boot
 
@@ -69,4 +70,5 @@ Muitas vezes precisamos escolher quais features priorizar e quais planejar para 
 Portanto, se não conseguir fazer algo, não desanime! Descreva para nós como iria fazê-lo.
  
 
-[E aí, tá pronto?] (https://www.facebook.com/vsmsoftwares/videos/2104869086431667/)
+[E aí, tá pronto?] 
+(https://www.facebook.com/vsmsoftwares/videos/2104869086431667/)
